@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 134"
+  short_description: "Picture-book Colour-field Story"
+  default_prompt: "Use $xxd-panel-134 to transform my photograph using the complete canonical source brief."
