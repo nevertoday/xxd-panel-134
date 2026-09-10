@@ -28,6 +28,15 @@ For personal photography collections, independent publications, exhibition studi
 
 Extract only the photograph’s most recognisable subject, silhouette, structure, pose and narrative relationships for the lower half, reconstructing them as Naïve Mixed-media Picture-book Illustration. Do not copy the whole photograph, redraw every object or retain all objects and backgrounds. Remove irrelevant details, keeping only the visual memories that best represent the original object and theme. Reinterpret them through simplified shapes, handmade traces, rearranged colour planes and whitespace, making the correspondence with the photograph above immediately recognisable.
 
+## Usage tips
+
+- **Start with one clear photo:** choose a source whose subject, action, and relationships are easy to recognize before choosing the delivery format.
+- **Join the parameters in one sentence:** say “top-bottom / left-right / design-only + 16:9 / 3:4 / phone wallpaper”; you can also name desktop, tablet, or smartwatch sizes.
+- **State what must stay:** identify the people, objects, actions, relationships, and copy to preserve, while leaving room for the style to design the layout.
+- **Choose a text mode:** let the model write from the image, lock exact wording with `--text exact --copy`, or remove text completely with `--text none`.
+- **Clarify reality and design regions:** for top-bottom or left-right, say which region keeps the photograph and which region is redesigned; for design-only and wallpapers, say that the whole canvas is redesigned.
+- **Test one image before batching:** confirm mode, ratio, text, and language on one source, then reuse the settings for a folder; change one variable per iteration.
+
 ## Original prompt · five languages
 
 [简体中文](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
@@ -37,14 +46,6 @@ The Chinese file preserves the user's original prompt verbatim and is the sole r
 ## Quick fit check
 
 Keep the source identity while redirecting composition; retain the material signature while actively leaving space. Choose exact text, generated copy or no text, with single-image or recursive directory processing and the four delivery modes below.
-
-## Transformation logic
-
-Read the subject and relationships → extract the original brief’s visual language → remove irrelevant detail → recompose scale, placement and whitespace → add minimal source-grounded copy → check geometry, text and finish
-
-## Recognisable finished traits
-
-The overall effect combines naïve linework, mixed media, a miniature subject, extensive whitespace, a mixed-colour base at the bottom, integrated text and poetic picture-book storytelling. Avoid object-by-object redraws, filled canvases, complex backgrounds, realistic modelling, heavy oil-paint effects, cartoon templates, 3D effects and excessive decoration.
 
 ## Four output modes
 
