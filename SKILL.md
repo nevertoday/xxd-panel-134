@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-134
-description: "Create XXD Panel 134 raster artwork from photographs using naive mixed-media picture-book lines, a small narrative subject, vast upper whitespace and a broad mixed-colour brushwork base. Use when the user invokes xxd-panel-134 or requests this style. Supports individual images, isolated directory batches, strict 50:50 comparisons, design-only outputs, and wallpapers."
+description: "XXD Panel 134｜Picture-book Colour-field Story: redraws a photo as a naive mixed-media picture-book page with a clear vertical order: wide empty space above, a small storytelling subject in the middle drawn in loose, broken, slightly shaky lines, and a broad base of mixed colour below that becomes sea, ground, grass, hills, a table or shadow, built from wide gouache-like horizontal strokes, translucent layers, crayon and pastel grain and a little collage, in 2–4 softened colours from the photo, with handwritten words placed inside the whitespace or the colour base. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-134 or asks for naive picture-book, mixed-media children's book or storybook illustration from a photo."
 ---
 
 # XXD Panel 134

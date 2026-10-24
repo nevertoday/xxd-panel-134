@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 134"
-  short_description: "Picture-book Colour-field Story"
-  default_prompt: "Use $xxd-panel-134 to transform my photograph using the complete canonical source brief."
+  short_description: "绘本色域叙事志：上方留白、中间小小的叙事主体、底部一大片混色色块，像一页绘本"
+  default_prompt: "Use $xxd-panel-134 to turn my photo into Picture-book Colour-field Story artwork."

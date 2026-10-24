@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 134｜Picture-book Colour-field Story: redraws a photo as a naive mixed-media picture-book page with a clear vertical order: wide empty space above, a small storytelling subject in the middle drawn in loose, broken, slightly shaky lines, and a broad base of mixed colour below that becomes sea, ground, grass, hills, a table or shadow, built from wide gouache-like horizontal strokes, translucent layers, crayon and pastel grain and a little collage, in 2–4 softened colours from the photo, with handwritten words placed inside the whitespace or the colour base. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-134 or asks for naive picture-book, mixed-media children's book or storybook illustration from a photo.",
+  "short_description": "绘本色域叙事志：上方留白、中间小小的叙事主体、底部一大片混色色块，像一页绘本",
+  "zh-CN": {
+    "name": "绘本色域叙事志",
+    "tagline": "上方大片留白，中间一个小小的故事主体，底下一整片混色色块，像一页绘本。",
+    "look": "画面从上到下分三层：上面是大片空白，中间是缩得很小的主体，用松散、断续、略带抖动的稚拙线条画出；最下面是一整片宽笔触横向铺开的混色色块，根据照片变成海面、地面、草地、山体、桌面或阴影，深浅叠加、局部透白。色块里混着水粉般的平涂、半透明叠色、蜡笔粉彩颗粒和一点拼贴材质。颜色从照片取 2–4 种，柔和提亮，留一小处鲜活点睛色。文字像绘本里的手写句子，直接写进留白或底部色块里。",
+    "traits": [
+      "稚拙混媒绘本",
+      "断线粉蜡笔",
+      "上空中主体下色域",
+      "宽笔触色块基座",
+      "图文融合"
+    ],
+    "good": [
+      "有一个人或动物站在某个地面上的照片：海边的孩子、草地上的狗、桌上的猫",
+      "有地平线或承托面的场景：沙滩、田野、山坡、餐桌",
+      "想讲一个小故事、做成绘本页或童书插图的生活照"
+    ],
+    "poor": [
+      "没有明确主体或地面的照片：抽象纹理、近距离花纹、俯拍的满屏物品",
+      "需要写实塑造、精确透视的建筑或产品",
+      "想要厚重油画感、卡通模板或 3D 效果"
+    ]
+  },
+  "en": {
+    "name": "Picture-book Colour-field Story",
+    "tagline": "Empty space above, a small story subject in the middle and a broad band of mixed colour below, like a picture-book page.",
+    "look": "The picture reads in three layers from top to bottom: wide empty space above, a much-reduced subject in the middle drawn in loose, broken, slightly shaky naive lines, and at the bottom one broad base of mixed colour laid in wide horizontal strokes that, depending on the photo, becomes sea, ground, grass, hills, a tabletop or a shadow, with darker and lighter layers and patches of paper showing through. The colour mixes gouache-like flat fills, translucent glazes, crayon and pastel grain and a little collage. Two to four softened colours come from the photo, with one small lively accent. The text reads like handwritten lines in a picture book, written straight into the whitespace or the colour base.",
+    "traits": [
+      "Naive mixed-media picture book",
+      "Broken pastel lines",
+      "Space, subject, colour base",
+      "Broad-stroke colour field",
+      "Text woven into the image"
+    ],
+    "good": [
+      "A person or animal standing on some kind of ground: a child by the sea, a dog on grass, a cat on a table",
+      "Scenes with a horizon or a surface: a beach, fields, a hillside, a dining table",
+      "Everyday photos you want to tell a small story with, as a picture-book page or children's book illustration"
+    ],
+    "poor": [
+      "Photos with no clear subject or ground: abstract textures, close-up patterns, overhead shots packed with objects",
+      "Buildings or products that need realistic modelling and exact perspective",
+      "Requests for heavy oil-paint, template cartoon or 3D looks"
+    ]
+  },
+  "ja": {
+    "name": "絵本の色面物語",
+    "tagline": "上に大きな余白、真ん中に小さな物語の主役、下に混ざり合う色面を一面に敷き、絵本の一ページのようにします。",
+    "look": "画面は上から三層に分かれます。上は大きな余白、真ん中はぐっと小さくした主役で、ゆるく、途切れ、少し震える素朴な線で描かれます。いちばん下には幅広の筆で横に塗り広げた混色の色面が一面にあり、写真に応じて海、地面、草地、山、テーブル、影などになります。濃淡を重ね、ところどころ紙の白が透けます。色面にはガッシュのような平塗り、半透明の重ね塗り、クレヨンやパステルの粒子、少しのコラージュ素材が混ざります。色は写真から 2〜4 色を取って柔らかく明るくし、小さな生き生きとした差し色を一つ残します。文字は絵本の中の手書きの一文のように、余白や下の色面に直接書き込まれます。",
+    "traits": [
+      "素朴なミクストメディア絵本",
+      "途切れるパステル線",
+      "空・主役・色面の三層",
+      "幅広の筆の色面",
+      "絵と文字の一体化"
+    ],
+    "good": [
+      "人や動物が何かの地面に立っている写真：海辺の子ども、草の上の犬、テーブルの上の猫",
+      "地平線や支えになる面がある場面：砂浜、畑、丘、食卓",
+      "小さな物語を語りたい日常写真、絵本のページや児童書の挿絵にしたい写真"
+    ],
+    "poor": [
+      "はっきりした主役や地面がない写真：抽象的な質感、模様のアップ、物を敷き詰めた俯瞰",
+      "写実的な立体感や正確な遠近が必要な建物や商品",
+      "厚塗りの油絵、型どおりのアニメ調、3D を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "그림책 색역 이야기",
+    "tagline": "위에는 넓은 여백, 가운데에는 작은 이야기 주인공, 아래에는 섞인 색면 한 판을 두어 그림책 한 장처럼 만듭니다.",
+    "look": "화면은 위에서 아래로 세 층입니다. 위쪽은 넓은 빈 공간, 가운데는 아주 작게 줄인 주인공으로 느슨하고 끊기며 살짝 떨리는 서툰 선으로 그립니다. 맨 아래에는 넓은 붓으로 가로로 깐 혼색 색면이 한 판 깔리는데, 사진에 따라 바다, 땅, 풀밭, 산, 탁자, 그림자가 되며 진하고 옅은 층이 겹치고 군데군데 종이가 비칩니다. 색면에는 과슈 같은 평칠, 반투명 덧칠, 크레용·파스텔 입자, 약간의 콜라주 재료가 섞입니다. 색은 사진에서 2~4가지를 골라 부드럽고 밝게 다듬고, 작고 생기 있는 포인트 색 하나를 남깁니다. 글은 그림책 속 손글씨 문장처럼 여백이나 아래 색면 안에 바로 써 넣습니다.",
+    "traits": [
+      "서툰 혼합 매체 그림책",
+      "끊긴 파스텔 선",
+      "빈 공간·주인공·색면",
+      "넓은 붓질의 색면 받침",
+      "그림과 글의 융합"
+    ],
+    "good": [
+      "사람이나 동물이 어떤 바닥 위에 있는 사진: 바닷가의 아이, 풀밭의 강아지, 탁자 위의 고양이",
+      "지평선이나 받쳐 주는 면이 있는 장면: 모래사장, 들판, 언덕, 식탁",
+      "작은 이야기를 담고 싶은 일상 사진, 그림책 한 장이나 동화책 삽화로 만들고 싶은 사진"
+    ],
+    "poor": [
+      "주인공이나 바닥이 분명하지 않은 사진: 추상적인 질감, 무늬 클로즈업, 물건을 빼곡히 깐 부감",
+      "사실적인 입체감과 정확한 원근이 필요한 건물이나 제품",
+      "두꺼운 유화 느낌, 정형화된 만화풍, 3D를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "حكاية كتاب مصور ومجال لوني",
+    "tagline": "فراغ واسع في الأعلى، وعنصر صغير يروي حكاية في الوسط، وشريط عريض من الألوان الممتزجة في الأسفل، كصفحة من كتاب مصوّر.",
+    "look": "تُقرأ الصورة في ثلاث طبقات من الأعلى إلى الأسفل: فراغ واسع في الأعلى، وعنصر مصغّر كثيراً في الوسط مرسوم بخطوط عفوية فضفاضة متقطعة ترتعش قليلاً، وفي الأسفل قاعدة عريضة من الألوان الممتزجة بضربات أفقية واسعة، تصير بحسب الصورة بحراً أو أرضاً أو عشباً أو تلالاً أو سطح طاولة أو ظلاً، بطبقات أغمق وأفتح وبقع يظهر منها الورق. تمتزج فيها مساحات مسطّحة كالغواش وطبقات شفافة وحبيبات الكرايون والباستيل وقليل من الكولاج. تُؤخذ من الصورة اثنان إلى أربعة ألوان ناعمة مع لمسة صغيرة حيّة. والنص يشبه جملاً مكتوبة باليد في كتاب مصوّر، تُكتب مباشرة في الفراغ أو في القاعدة اللونية.",
+    "traits": [
+      "كتاب مصوّر عفوي بوسائط مختلطة",
+      "خطوط باستيل متقطعة",
+      "فراغ ثم عنصر ثم قاعدة لونية",
+      "مجال لوني بضربات عريضة",
+      "نص منسوج في الصورة"
+    ],
+    "good": [
+      "شخص أو حيوان واقف على أرض ما: طفل على الشاطئ، كلب على العشب، قطة على طاولة",
+      "مشاهد فيها أفق أو سطح: شاطئ، حقول، سفح تل، مائدة طعام",
+      "صور يومية تريد أن تروي بها حكاية صغيرة، كصفحة في كتاب مصوّر أو رسم لكتاب أطفال"
+    ],
+    "poor": [
+      "صور بلا عنصر واضح أو أرضية: ملامس تجريدية، أنماط مقرّبة، لقطات علوية مكتظة بالأشياء",
+      "مبانٍ أو منتجات تحتاج إلى تجسيم واقعي ومنظور دقيق",
+      "طلب مظهر زيتي كثيف أو كرتون نمطي أو ثلاثي الأبعاد"
+    ]
+  }
+}
